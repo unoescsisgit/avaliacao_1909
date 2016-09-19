@@ -1,5 +1,7 @@
-﻿UNOESC - Universidade do Oeste de Santa Catarina
+UNOESC - Universidade do Oeste de Santa Catarina
+
 GitHub ClassRoom
+
 Aluno:
 
 
