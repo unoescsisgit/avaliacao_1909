@@ -38,6 +38,8 @@ R:
 
 
 ###### 5 - Porque usar o Git ou ferramenta semelhante em um projeto de software?
+R:
+
 
 
 
